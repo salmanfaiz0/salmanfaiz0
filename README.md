@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Salman Faiz</h1>
-<h2 align="center">Self-taught Flutter developer</h2>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Salman Faiz  </h1>
+<h3 align="center">✨ Self-taught Flutter developer | Graphic Designer ⚡</h3>
+
+<p align="center"> <img alt="Coder GIF" height=400 width=700 src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" /> </p>
+
 
 <!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="300" height="300" /> -->
 
@@ -21,7 +24,6 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/mohammed-salman-faiz-797127236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-salman-faiz-797127236" height="30" width="40" /></a>
-<a href="https://instagram.com/im_sf__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_sf__" height="30" width="40" /></a>
 <a href="https://www.behance.net/kathrika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kathrika" height="30" width="40" /></a>
 </p>
 
