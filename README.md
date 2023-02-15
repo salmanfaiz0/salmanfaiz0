@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Kathrika**
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Flutter**
 
-- 🤝 I’m looking for help with **new opportunities**
+- 🤝 I’m looking for help with **New Opportunities**
 
-- 💬 Ask me about **mobile development**
+- 💬 Ask me about **Mobile Development**
 
 - ⚡ Fun fact **I'm Coool!!!**
 
