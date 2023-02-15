@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salman Faiz</h1> <img align="right" alt="GIF" src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Images/Life.gif?raw=true" width="500" height="500" />
+<h1 Hi 👋, I'm Salman Faiz</h1> <img align="right" alt="GIF" src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Images/Life.gif?raw=true" width="500" height="500" />
 <h3 align="center">frontend developer from India 🇮🇳 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanfaiz0&label=Profile%20views&color=0e75b6&style=flat" alt="salmanfaiz0" /> </p>
