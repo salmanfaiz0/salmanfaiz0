@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Salman Faiz
 <h2>Frontend Developer From India 🇮🇳</h2>
 
-
+ <img align="right" alt="GIF" src="https://tenor.com/view/hello-world-gif-19688045" width="500" height="500" />
 
 - 🔭 I’m currently working on **Kathrika**
 
