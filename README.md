@@ -1,9 +1,9 @@
 ### Hi 👋, I'm Salman Faiz
 <h2>Frontend Developer From India 🇮🇳</h2>
 
- <img align="right" alt="GIF" src="https://tenor.com/view/hello-world-gif-19688045" width="500" height="500" />
+<!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="300" height="300" /> -->
 
-- 🔭 I’m currently working on **Kathrika**
+- 🔭 I’m currently working on [കട](https://github.com/SRV1030/DAPP-ForYou) 
 
 - 🌱 I’m currently learning **Flutter**
 
