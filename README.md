@@ -1,5 +1,5 @@
-### Hi 👋, I'm Salman Faiz
-<h2>Frontend Developer From India 🇮🇳</h2>
+<h1 align="center">Hi 👋, I'm Salman Faiz</h1>
+<h2 align="center">Self-taught Flutter developer</h2>
 
 <!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="300" height="300" /> -->
 
