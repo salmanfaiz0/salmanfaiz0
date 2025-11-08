@@ -6,9 +6,9 @@
 
 <!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="300" height="300" /> -->
 
-- 🔭 I’m currently working on [KRAN Consulting]([https://github.com/salmanfaiz0/Kada](https://kran.co.in/)) 
+- 🔭 I’m currently working on [HMS]([https://github.com/salmanfaiz0/Kada](https://kran.co.in/)) 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Mobile Application Development**
 
 - 🤝 I’m looking for help with **New Opportunities**
 
