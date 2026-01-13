@@ -3,8 +3,8 @@
 </h1>
 
 <h3 align="center">
-  ✨ Self-taught Flutter Developer | UI/UX Designer ⚡  
-  3 Years Experience in Flutter Development
+  ✨   3 Years Experience in Flutter Development | UI/UX Designer ⚡  
+
 </h3>
 
 <p align="center">
