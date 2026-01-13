@@ -30,7 +30,6 @@
 <br />
 
 
-## Languages and Tools:
 ## 🛠️ Languages & Tools
 
 <p align="left">
