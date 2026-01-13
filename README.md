@@ -14,12 +14,12 @@
 
 ---
 
-- 🔭 I’m currently working on [HMS](https://kran.co.in/)  
-- 🌱 I’m currently learning **Mobile Application Development**  
-- 🤝 I’m looking for help with **New Opportunities**  
-- 💬 Ask me about **Mobile Development, Flutter & UI/UX Design**  
+- 🔭 Passionate about **Flutter & Mobile App Development**  
+- 🌱 Continuously learning **advanced mobile application techniques**  
+- 🤝 Open to **freelance projects, internships, and job opportunities**  
+- 💬 Ask me about **Flutter, Dart, Firebase, and UI/UX Design**  
 - 📫 How to reach me: [Salman Faiz][LinkedIn]  
-- ⚡ Fun fact: **I'm Coool!!!**
+- ⚡ Fun fact: I love creating **clean, interactive user interfaces**
 
 ---
 
